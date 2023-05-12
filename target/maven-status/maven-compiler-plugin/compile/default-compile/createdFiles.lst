@@ -1,0 +1,6 @@
+com\jessica\AuditController.class
+com\jessica\AuditRepository.class
+com\jessica\StartAuditApplication.class
+com\jessica\error\AuditNotFoundException.class
+com\jessica\error\CustomGlobalExceptionHandler.class
+com\jessica\Audit.class

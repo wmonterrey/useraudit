@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: waviles
+Build-Jdk: 11.0.7
+Implementation-Title: Spring Boot REST API USer Audit
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-rest-user-audit
+Created-By: Maven Integration for Eclipse
+
